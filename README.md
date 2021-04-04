@@ -1,6 +1,10 @@
-# translation
+## translation app
 
-A new Flutter project.
+#Translates input text into selected language.
+
+Uses translator package and Google Translator. 
+
+Can copy translated result to clipboard.
 
 ## Getting Started
 
