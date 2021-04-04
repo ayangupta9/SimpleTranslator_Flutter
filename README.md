@@ -1,6 +1,6 @@
 ## translation app
 
-#Translates input text into selected language.
+### Translates input text into selected language.
 
 Uses translator package and Google Translator. 
 
